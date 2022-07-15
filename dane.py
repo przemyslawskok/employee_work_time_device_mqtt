@@ -1,0 +1,13 @@
+ip_baza="51.83.134.60"
+port_baza="3306"
+nazwa_baza="my_test"
+uzytkownik_baza="uzytkownik_kuba"
+haslo_baza="99oQ01oP"
+broker_address="192.168.80.70"
+broker_port="1883"
+broker_topic_main="/system/#"
+broker_topic="/system/rfid/rfid_applied"
+broker_topic_active="/system/rfid/active"
+mqtt_start_delay=10
+mqtt_subscribe_delay=3
+mqtt_reconnect_delay=30

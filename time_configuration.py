@@ -1,0 +1,5 @@
+
+# VARIABLES TO CONFIGURE HOUR CALCULATING
+# --------------------------------------
+LOW_LIMIT=15
+HIGH_LIMIT=45
